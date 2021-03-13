@@ -1,0 +1,7 @@
+{
+    "HOST": "localhost",
+    "PORT": 27017,
+    "APPNAME": "TaskManager",
+    "JWTSECRETKEY": "3262d8adfeed35236e10a35d0aa7c3",
+    "JWTREFRESHKEY": "588b9a0a33d61c2939585f617df414"
+}
